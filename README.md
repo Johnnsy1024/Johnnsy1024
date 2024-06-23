@@ -17,9 +17,11 @@ Welcome to my Github page! I am Johnnsy and I successfully transfered from Trans
 - Exercising 3 days a week
 - Make a balance between study and life
 
+<img width="50%" align="right" src="[![Johnnsy1024's GitHub stats](https://github-readme-stats.vercel.app/api?username=Johnnsy1024)](https://github.com/anuraghazra/github-readme-stats)" />
+
 #### :computer: Programming languages and tools: 
 <p>
-	<img width="50%" align="right" src="[![Johnnsy1024's GitHub stats](https://github-readme-stats.vercel.app/api?username=Johnnsy1024)](https://github.com/anuraghazra/github-readme-stats)" />
+<!-- 	<img width="50%" align="right" src="[![Johnnsy1024's GitHub stats](https://github-readme-stats.vercel.app/api?username=Johnnsy1024)](https://github.com/anuraghazra/github-readme-stats)" /> -->
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
