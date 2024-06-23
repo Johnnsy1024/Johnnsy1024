@@ -5,7 +5,7 @@
 
 Welcome to my Github page! I am Johnnsy and I successfully transfered from Transportation Engineering to Data Science and Algorithm Engineering!  
 
-<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
+
 
 #### 🌱 Things I am currently working on: 
 - Optimization of mathematic model by Gurobi  
