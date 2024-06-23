@@ -17,7 +17,7 @@ Welcome to my Github page! I am Johnnsy and I successfully transfered from Trans
 - Exercising 3 days a week
 - Make a balance between study and life
 
-<img width="50%" align="right" src="[![Johnnsy1024's GitHub stats](https://github-readme-stats.vercel.app/api?username=Johnnsy1024)](https://github.com/anuraghazra/github-readme-stats)" />
+<img width="20%" src="[![Johnnsy1024's GitHub stats](https://github-readme-stats.vercel.app/api?username=Johnnsy1024)](https://github.com/anuraghazra/github-readme-stats)" />
 
 #### :computer: Programming languages and tools: 
 <p>
