@@ -8,14 +8,7 @@ Welcome to my Github page! I am Johnnsy and I successfully transfered from Trans
 <img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
 
 #### 🌱 Things I am currently working on: 
-- Optimization of mathematic model by Gurobi  
-- Practice of NLP and traditional machine learning
-- Other tech which could make me better🚀
-
-#### :muscle: Things I am challenging myself with:
-- Try my best to make full use of everyday
-- Exercising 3 days a week
-- Make a balance between study and life
+- Have a nice and happy life
 
 #### :computer: Programming languages and tools: 
 <p>
